@@ -43,6 +43,6 @@ My work involves developing **full-stack applications**, **ETL pipelines**, and 
 
 | LinkedIn | GitHub | Email |
 |----------|--------|-------|
-| [![LinkedIn](https://img.shields.io/badge/-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-caushi/) | [![GitHub](https://img.shields.io/badge/-Repositories-181717?logo=github&logoColor=white)](https://github.com/MarioCaushi) | [![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white)](mailto:mario.caushi@example.com) |
+| [![LinkedIn](https://img.shields.io/badge/-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-caushi/) | [![GitHub](https://img.shields.io/badge/-Repositories-181717?logo=github&logoColor=white)](https://github.com/MarioCaushi) | [![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white)](mailto:caushimario321@gmail.com) |
 
 ---

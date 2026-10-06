@@ -1,23 +1,40 @@
 # Mario Caushi  
 
-**Computer Engineering Graduate | Full-Stack .NET & Data Engineering Developer | AI Enthusiast**  
+**MSc Data Science @ TU Wien | Software & Data Engineer | .NET, Data Engineering & Machine Learning**
 
 ---
 
 ## About Me  
 
-I am a Computer Engineering graduate focused on building software and data solutions with expertise in **.NET development**, **data engineering**, and experience in **Python, Java, and AI technologies**.  
-My work involves developing **full-stack applications**, **ETL pipelines**, and **data warehouse solutions**, while exploring **AI and machine learning** academically through research-driven projects.  
+I am a **Data Science MSc student at TU Wien** with a background in **Computer Engineering** and professional experience in **software and data engineering**.
+
+I have worked on enterprise applications and data platforms using **.NET, Angular, SQL Server, SSIS, SSRS, Docker, and CI/CD**, with experience spanning full-stack development, ETL workflows, data warehousing, regulatory reporting, and identity management.
+
+Alongside software and data engineering, I work with **Python and machine learning**, with projects in deep learning, medical image segmentation, predictive modeling, and applied data science.
 
 ---
 
 ## Technical Skills  
 
-**Core:**  
-- .NET (C#), Python, SQL, React, Angular, TypeScript  
-- Data Engineering: SSIS, SSRS, Data Warehousing, T-SQL  
-- AI/ML: TensorFlow, Scikit-learn, Pandas  
-- Tools: Docker, Git, CI/CD  
+**Software Engineering**
+- C#, ASP.NET Core, .NET, REST APIs
+- Angular, TypeScript, JavaScript, React
+- Entity Framework Core
+
+**Data Engineering & Databases**
+- SQL, T-SQL, Microsoft SQL Server
+- SSIS, SSRS, ETL
+- Data Warehousing, Dimensional Modeling
+
+**Data Science & Machine Learning**
+- Python, Pandas, NumPy
+- Scikit-learn, TensorFlow / Keras, XGBoost
+- Machine Learning, Deep Learning, Data Analysis
+
+**DevOps & Tools**
+- Docker, Git, Azure DevOps
+- CI/CD, Linux
+- Keycloak
 
 ---
 
